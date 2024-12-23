@@ -1,8 +1,8 @@
-# Noritake-CU20045SCPB-T23A
-Arduino Code for Noritake CU20045SCPB-T23A
+# The GSM-R Project
 
-I bought a VFD off eBay a few years back but it never worked. I found it in a box and decided to try it again.
-It worked on the first try with my Arduino.
-
-![](front.jpg)
-![](back.jpg)
+*I am probably going to go mad by the end of this project.*
+## GSM-R Project Overview
+This repository contains:
+* Arduino Code for Noritake CU20045SCPB-T23A
+* [A folder of reference pictures](https://github.com/SilverDevelopment/GSMR-Project/tree/master/References)
+* More to come in the future!
