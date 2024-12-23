@@ -1,9 +1,9 @@
 void setup()
 {
   Serial.begin(19200);
-  Serial.print(22, BYTE); // Cursor Off
-  Serial.print(14, BYTE); // Clear Display              
-  Serial.print(24, BYTE); // International Font              
+    Serial.print(22, BYTE); // Cursor Off
+    Serial.print(14, BYTE); // Clear Display              
+    Serial.print(24, BYTE); // International Font              
 }
 
 void loop()
@@ -17,4 +17,10 @@ void loop()
 void clearLCD(){
   Serial.print(13, BYTE); // Carriage Return
   Serial.print(14, BYTE); // Clear Display
+}
+
+// Drop to a new line and return
+void newLine() { 
+  Serial.print(10, BYTE); // Line Feed
+  Serial.print(13, BYTE); // Carriage Return
 }
