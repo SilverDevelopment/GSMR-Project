@@ -1,3 +1,5 @@
+// THIS IS AN UNTESTED EXAMPLE IT MAY OR MAY NOT WORK
+
 void setup()
 {
   Serial.begin(19200);
