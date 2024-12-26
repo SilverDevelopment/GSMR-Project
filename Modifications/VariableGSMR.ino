@@ -26,13 +26,6 @@ void clearLCD(){
 
 // Function to display text on the LCD
 void displayText(String left, String right) {
-  // Ensure the right string is exactly 4 characters
-  if (right.length() > 4) {
-    right = right.substring(0, 4); // Truncate if longer than 4
-  } else if (right.length() < 4) {
-    right = right + "    "; // Pad with spaces if shorter than 4
-  }
-  
   // Print the left and right strings
   Serial.print(left); // Print left side
   Serial.print(" "); // Add a space between
