@@ -12,7 +12,7 @@ This repository contains:
 
 ## Planned Functionality of the GSM-R
 * Start up procedure. [As seen here](https://github.com/SilverDevelopment/GSMR-Project/blob/master/References/Sequences/StartUp.png)
-* Simple registration system (with option to blacklist certain registration details e.g "1Z69 420") [*See registration failed*](https://github.com/SilverDevelopment/GSMR-Project/blob/master/References/0W00-Registration-Failed.jpg)
+* Simple registration system (with option to blacklist certain registration details e.g "1Z69 420") [*See registration failed*](https://github.com/SilverDevelopment/GSMR-Project/blob/master/References/Photos/0W00-Registration-Failed.jpg)
 * Simple deregistration
 * Option to use the software or the physical keypad to control the GSM-R screen.
 * A dynamic message system. Used to show messages such as an emergency broadcast or [joke messages](https://github.com/SilverDevelopment/GSMR-Project/blob/master/References/Jokes/Dominos.jpg).
