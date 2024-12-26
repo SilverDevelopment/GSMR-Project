@@ -15,7 +15,7 @@ This repository contains:
 * Simple registration system (with option to blacklist certain registration details e.g "1Z69 420") [*See registration failed*](https://github.com/SilverDevelopment/GSMR-Project/blob/master/References/0W00-Registration-Failed.jpg)
 * Simple deregistration
 * Option to use the software or the physical keypad to control the GSM-R screen.
-* A dynamic message system. Used to show messages such as an emergency broadcast or [joke messages](https://github.com/SilverDevelopment/GSMR-Project/blob/master/References/Jokes/Dominos.png).
+* A dynamic message system. Used to show messages such as an emergency broadcast or [joke messages](https://github.com/SilverDevelopment/GSMR-Project/blob/master/References/Jokes/Dominos.jpg).
 * A *phone book* that contains numbers that would be specific to the train company that operates the train, instead replaced by 10 or so slots of phone numbers that could be imputted in the control software and displayed on the GSM-R.
 
 * Simple brightness and volume controls
