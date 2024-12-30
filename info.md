@@ -6,4 +6,4 @@
 
 - When "Turning off" the GSM-R the button has to be pressed for 2 seconds or more. Otherwise it will attempt to start the registration/deregistration process.
 
-- 
+- hello world thou shall not commit
