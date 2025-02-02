@@ -3,12 +3,11 @@
 
 The GSM-R project is a way for me to convert an ex Class 507 (507010) GSM-R DCP & Telephone into working pieces of hardware to be used on my Computer.
 
-
 ## GSM-R Project Overview
 This repository contains:
 * Arduino Code for Noritake CU20045SCPB-T23A
-* [A folder of reference pictures](https://github.com/SilverDevelopment/GSMR-Project/tree/master/References)
-* Software planned for this project which can manage the GSM-R DCP including resetting it and handling its functionality.
+* [A folder of references](https://github.com/SilverDevelopment/GSMR-Project/tree/master/References)
+* The start of the software planned for this project which can manage the GSM-R DCP including resetting it and handling its functionality.
 * More to come in the future!
 
 ## Planned Functionality of the GSM-R
@@ -43,4 +42,4 @@ The software *is planned to* be written in Python and will be a simple GUI appli
 
 ## Credits
 * [Armstrong Powerhouse](https://www.armstrongpowerhouse.com/class_377_379_387_enhancement_pack) for a few of the screen reference images.
-* [RSSB](https://www.rssb.co.uk/) & [Network Rail](https://www.networkrail.co.uk/running-the-railway/gsm-r-communicating-on-the-railway/gsm-r-for-drivers-and-signallers/#bulletins) for safety information and functionality reference images and sounds.
+* [RSSB](https://www.rssb.co.uk/) & [Network Rail](https://www.networkrail.co.uk/running-the-railway/gsm-r-communicating-on-the-railway/gsm-r-for-drivers-and-signallers/#bulletins) for operational information and functionality reference images and sounds.
