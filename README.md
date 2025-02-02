@@ -19,9 +19,10 @@ This repository contains:
 * A dynamic message system. Used to show messages such as an emergency broadcast or [joke messages](https://github.com/SilverDevelopment/GSMR-Project/blob/master/References/Jokes/Dominos.jpg).
 * A *phone book* that contains numbers that would be specific to the train company that operates the train, instead replaced by 10 or so slots of phone numbers that could be imputted in the control software and displayed on the GSM-R.
 * Simple brightness and volume controls
+* Other features such as the test and menu button.
 * Turning "off" the GSM-R by holding the register button. Starts the start up procedure to turn it back on. (This entire feature is cosmetic and doesn't actually shut down the GSM-R)
 
-## The Software & The Plans For 
+## The Control Software & The Plans For It
 The software *is planned to* be written in Python and will be a simple GUI application. It will be designed to:
 * Manage the GSM-R DCP
 * Display the GSM-R screen on the computer
@@ -32,6 +33,7 @@ The software *is planned to* be written in Python and will be a simple GUI appli
 * Turn the GSM-R on and off
 * Reset the GSM-R to its default state
 * View the current state of the GSM-R
+* Change the settings on how the GSM-R Operates
 
 ## Requirements
 * An arduino
