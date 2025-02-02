@@ -42,5 +42,5 @@ The software *is planned to* be written in Python and will be a simple GUI appli
 
 
 ## Credits
-* Armstrong Powerhouse for a few of the screen reference images.
-* RSSB & Network Rail for safety information and functionality reference images and sounds.
+* [Armstrong Powerhouse](https://www.armstrongpowerhouse.com/class_377_379_387_enhancement_pack) for a few of the screen reference images.
+* [RSSB](https://www.rssb.co.uk/) & [Network Rail](https://www.networkrail.co.uk/running-the-railway/gsm-r-communicating-on-the-railway/gsm-r-for-drivers-and-signallers/#bulletins) for safety information and functionality reference images and sounds.
