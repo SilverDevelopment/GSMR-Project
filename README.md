@@ -39,7 +39,7 @@ The software *is planned to* be written in Python and will be a simple GUI appli
 * An arduino
 * A LOT of time
 * A GSM-R DCP
-* Decend computer & electrical knowledge
+* Decent computer & electrical knowledge
 
 
 ## Credits
