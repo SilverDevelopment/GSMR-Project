@@ -33,11 +33,13 @@ The software *is planned to* be written in Python and will be a simple GUI appli
 * Reset the GSM-R to its default state
 * View the current state of the GSM-R
 * Change the settings on how the GSM-R Operates
+* Apply certain inputs and outputs from the GSM-R DCP into games such as [Train Sim World](https://trainsimworld.com/) and [Train Simulator](https://www.train-simulator.com/)
 
 ## Requirements
 * An arduino
-* A lot of time
-* A GSM-R
+* A LOT of time
+* A GSM-R DCP
+* Decend computer & electrical knowledge
 
 
 ## Credits
