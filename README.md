@@ -5,7 +5,7 @@ The GSM-R project is a way for me to convert an ex Class 507 (507010) GSM-R DCP 
 
 ## GSM-R Project Overview
 This repository contains:
-* Arduino Code for Noritake CU20045SCPB-T23A
+* Some form of arduino code.
 * [A folder of references](https://github.com/SilverDevelopment/GSMR-Project/tree/master/References)
 * The start of the software planned for this project which can manage the GSM-R DCP including resetting it and handling its functionality.
 * More to come in the future!
